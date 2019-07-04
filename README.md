@@ -1,37 +1,54 @@
-## Welcome to GitHub Pages
+# コミュニティ名 chillSAP
 
-You can use the [editor on GitHub](https://github.com/chillsap/mission_statement/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+読み方：ちる・えす・えー・ぴー
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## どんなコミュニティ？  
+SAP関連情報をソーシャルメディア(Twitter, Facebook)やブログ等で発信しているメンバーが集まったコミュニティ
 
-### Markdown
+## ハッシュタグ　#chillSAP
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 他のITコミュニティ同様に、オンライン⇔オフラインを大事にしていきたいと思っています。
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## 過去のイベント
 
-- Bulleted
-- List
+### 第1回イベント(2019/3/9開催) 
+**デザインシンキングワークショップ**  
+https://techplay.jp/column/517
 
-1. Numbered
-2. List
+※togetter  
+https://togetter.com/li/1326796
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+### 第2回イベント(2019/6/19開催)
+**SAPなんでもライトニングトーク祭**  
+https://techplay.jp/event/725758
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+※イベントレポートはこちら(公開資料含む)  
+https://techplay.jp/eventreport/725758
 
-### Jekyll Themes
+※togetter  
+https://togetter.com/li/1368084
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chillsap/mission_statement/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## 今後の予定   
+もくもく会、LT、セミナーを検討しているが具体的には未定。
+なにやりたいですか？
+
+
+
+## よくある質問  
+
+### chillSAPって何？  
+chillSAP ⇒ SAPに関する人とゆるく繋がって、SAPに関することをゆるく話そうよ
+
+
+### TECH PLAYの「SAPディベロッパーコミュニティ」と何が違うの？  
+SAPの方が作成したグループ「SAPディベロッパーコミュニティ」に所属していますが、chillSAP自体は技術以外の要素を含んだコミュニティです
+chillSAPの技術系イベントの告知等はこちらで行わせていただきます。  
+ 
+イメージとしてはこのような感じです。  
+![イメージ図](https://raw.githubusercontent.com/chillsap/about_us/master/chill_dev_image.jpg)
+
+
