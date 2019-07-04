@@ -49,10 +49,7 @@ SAPの方が作成したグループ「SAPディベロッパーコミュニテ�
 chillSAPの技術系イベントの告知等はこちらで行わせていただきます。  
  
 イメージとしてはこのような感じです。  
-<<<<<<< HEAD
-![イメージ図](https://raw.githubusercontent.com/chillsap/mission_statement/master/chill_dev_image.jpg)
-=======
+
 ![イメージ図](https://raw.githubusercontent.com/chillsap/about_us/master/chill_dev_image.jpg)
->>>>>>> 9480790a7d50c0430097a9bd9652c49708ad4117
 
 
