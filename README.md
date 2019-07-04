@@ -15,7 +15,7 @@ SAP関連情報をソーシャルメディア(Twitter, Facebook)やブログ等�
 **デザインシンキングワークショップ**  
 [https://techplay.jp/column/517](https://techplay.jp/column/517)
 
-※togetter  
+※Togetter  
 [https://togetter.com/li/1326796](https://togetter.com/li/1326796)
 
 
@@ -26,7 +26,7 @@ SAP関連情報をソーシャルメディア(Twitter, Facebook)やブログ等�
 ※イベントレポートはこちら(公開資料含む)  
 [https://techplay.jp/eventreport/725758](https://techplay.jp/eventreport/725758)
 
-※togetter  
+※Togetter  
 [https://togetter.com/li/1368084](https://togetter.com/li/1368084)
 
 
@@ -39,7 +39,7 @@ SAP関連情報をソーシャルメディア(Twitter, Facebook)やブログ等�
 # よくある質問  
 
 ### chillSAPって何？  
-chillSAP ⇒ SAPに関する人とゆるく繋がって、SAPに関することをゆるく話そうよ
+chillSAP ⇒ SAPに関する人とゆるく繋がって、SAPに関することをゆるく話そうよ。
 
 
 ### TECH PLAYの「SAPディベロッパーコミュニティ」と何が違うの？  
