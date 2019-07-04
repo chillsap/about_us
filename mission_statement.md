@@ -40,16 +40,15 @@ https://togetter.com/li/1368084
 
 ## よくある質問：  
 
-### chillって何？：  
-ゆるゆる
-chillSAP⇒SAPに関する人とゆるく繋がって、SAPに関することをゆるく話そうよ
+### chillSAPって何？：  
+chillSAP ⇒ SAPに関する人とゆるく繋がって、SAPに関することをゆるく話そうよ
 
 
-### TechPlayの「SAPディベロッパーコミュニティ」と何が違うの？  
+### TECH PLAYの「SAPディベロッパーコミュニティ」と何が違うの？  
 SAPの方が作成したグループ「SAPディベロッパーコミュニティ」に所属していますが、chillSAP自体は技術以外の要素を含んだコミュニティです
 chillSAPの技術系イベントの告知等はこちらで行わせていただきます。  
  
 イメージとしてはこのような感じです。  
-![イメージ図](https://github.com/chillsap/mission_statement/images/chill_dev_image.jpg)
+![イメージ図](https://raw.githubusercontent.com/chillsap/mission_statement/master/chill_dev_image.jpg)
 
 
