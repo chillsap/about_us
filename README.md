@@ -30,7 +30,6 @@ SAP関連情報をソーシャルメディア(Twitter, Facebook)やブログ等�
 [https://togetter.com/li/1368084](https://togetter.com/li/1368084)
 
 
-
 # 今後の予定   
 もくもく会、LT、セミナーを検討していますが具体的には未定です。  
 なにやりたいですか？
