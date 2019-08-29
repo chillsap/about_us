@@ -29,9 +29,14 @@
 ※Togetter  
 [https://togetter.com/li/1368084](https://togetter.com/li/1368084)
 
+### 第3回イベント(2019/8/27開催)
+**2019/8/27 chillSAP もくもく会 #1**  
+
+※Togetter  
+[https://togetter.com/li/1396271](https://togetter.com/li/1396271)
 
 # 今後の予定   
-もくもく会、LT、セミナーを検討していますが具体的には未定です。  
+もくもく会、LT、セミナー等を検討中です。  
 なにやりたいですか？
 
 
