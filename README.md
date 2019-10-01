@@ -3,7 +3,7 @@
 読み方：ちる・えす・えー・ぴー
 
 # どんなコミュニティ？  
-[SAP](https://www.sap.com)関連情報をソーシャルメディア(Twitter, [Facebook](https://www.facebook.com/groups/580119365825721/)やブログ等で発信しているメンバーが集まったコミュニティです。  
+[SAP](https://www.sap.com)関連情報をソーシャルメディア ( [Twitter](https://twitter.com/search?q=%23chillSAP), [Facebook](https://www.facebook.com/groups/580119365825721/) ) やブログ等で発信しているメンバーが集まったコミュニティです。  
 他のITコミュニティ同様に、オンライン⇔オフラインを大事にしていきたいと思っています。
 
 # ハッシュタグ
@@ -11,7 +11,7 @@
 
 # 過去のイベント
 
-### 第1回イベント(2019/3/9開催) 
+### 第01回イベント(2019/03/09開催) 
 **デザインシンキングワークショップ**  
 [https://techplay.jp/column/517](https://techplay.jp/column/517)
 
@@ -19,7 +19,7 @@
 [https://togetter.com/li/1326796](https://togetter.com/li/1326796)
 
 
-### 第2回イベント(2019/6/19開催)
+### 第02回イベント(2019/06/19開催)
 **SAPなんでもライトニングトーク祭**  
 [https://techplay.jp/event/725758](https://techplay.jp/event/725758)
 
@@ -29,11 +29,14 @@
 ※Togetter  
 [https://togetter.com/li/1368084](https://togetter.com/li/1368084)
 
-### 第3回イベント(2019/8/27開催)
-**2019/8/27 chillSAP もくもく会 #1**  
+### 第03回イベント(2019/08/27開催)
+**chillSAP もくもく会 #1**  
 
 ※Togetter  
 [https://togetter.com/li/1396271](https://togetter.com/li/1396271)
+
+### 第04回イベント(2019/10/09開催予定)
+**chillSAP もくもく会 #2**  
 
 # 今後の予定   
 もくもく会、LT、セミナー等を検討中です。  
