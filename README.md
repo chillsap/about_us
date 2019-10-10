@@ -35,8 +35,13 @@
 ※Togetter  
 [https://togetter.com/li/1396271](https://togetter.com/li/1396271)
 
-### 第04回イベント(2019/10/09開催予定)
+### 第04回イベント(2019/10/09開催)
 **chillSAP もくもく会 #2**  
+
+
+※Togetter  
+[https://togetter.com/li/1415028](https://togetter.com/li/1415028)
+
 
 # 今後の予定   
 もくもく会、LT、セミナー等を検討中です。  
