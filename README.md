@@ -3,7 +3,7 @@
 読み方：ちる・えす・えー・ぴー
 
 # どんなコミュニティ？  
-[SAP](https://www.sap.com)関連情報をソーシャルメディア ( [Twitter](https://twitter.com/search?q=%23chillSAP&f=live), [Facebook](https://www.facebook.com/groups/580119365825721/) ) やブログ等で発信しているメンバーが集まったコミュニティです。  
+[SAP](https://www.sap.com)関連情報をソーシャルメディア ([Twitter](https://twitter.com/search?q=%23chillSAP&f=live), [Facebook](https://www.facebook.com/groups/580119365825721/)) やブログ等で発信しているメンバーが集まったコミュニティです。  
 他のITコミュニティ同様に、オンライン⇔オフラインを大事にしていきたいと思っています。
 
 # ハッシュタグ
@@ -38,22 +38,20 @@
 ### 第04回イベント(2019/10/09開催)
 **chillSAP もくもく会 #2**  
 
-
 ※Togetter  
 [https://togetter.com/li/1415028](https://togetter.com/li/1415028)
 
+### 第xx回イベント(2019/11/25, 27, 28開催)
+**SAP Inside Track Tokyo 2019**
+https://blogs.sap.com/?p=874946
 
 # 今後の予定   
 もくもく会、LT、セミナー等を検討中です。  
-なにやりたいですか？
-
-
 
 # よくある質問  
 
 ### chillSAPって何？  
 chillSAP ⇒ SAPに関する人とゆるく繋がって、SAPに関することをゆるく話そうよ。
-
 
 ### TECH PLAYの「SAPディベロッパーコミュニティ」と何が違うの？  
 SAPの方が作成したグループ「SAPディベロッパーコミュニティ」に所属していますが、chillSAP自体は技術以外の要素を含んだコミュニティです。  
