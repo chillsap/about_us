@@ -41,10 +41,13 @@
 ※Togetter  
 [https://togetter.com/li/1415028](https://togetter.com/li/1415028)
 
-### 第xx回イベント(2019/11/25, 27, 28開催)
+### イベント(2019/11/25, 27, 28開催)
 **SAP Inside Track Tokyo 2019**  
 
 [https://blogs.sap.com/?p=874946](https://blogs.sap.com/?p=874946)
+
+### イベント(2019/12/17開催予定)
+**chillSAP もくもく会 #3**  
 
 # 今後の予定   
 もくもく会、LT、セミナー等を検討中です。  
