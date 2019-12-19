@@ -46,7 +46,7 @@
 
 [https://blogs.sap.com/?p=874946](https://blogs.sap.com/?p=874946)
 
-### イベント(2019/12/17開催予定)
+### イベント(2019/12/17開催)
 **chillSAP もくもく会 #3**  
 
 [http://www.sapsumikko.jp/entry/2019/12/17/chillsap-mokumoku-003](http://www.sapsumikko.jp/entry/2019/12/17/chillsap-mokumoku-003)
