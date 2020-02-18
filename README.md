@@ -30,6 +30,6 @@ chillSAPの技術系イベントの告知等はこちらで行わせていただ
 
 # Code of Conducts
 
-[こちら](ttps://chillsap.github.io/code_of_conducts/)
+[こちら](https://chillsap.github.io/code_of_conducts/)
 
 
