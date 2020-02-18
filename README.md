@@ -10,50 +10,7 @@
 #chillSAP
 
 # 過去のイベント
-
-### 第01回イベント(2019/03/09開催) 
-**デザインシンキングワークショップ**  
-[https://techplay.jp/column/517](https://techplay.jp/column/517)
-
-[https://togetter.com/li/1326796](https://togetter.com/li/1326796)
-
-
-### 第02回イベント(2019/06/19開催)
-**SAPなんでもライトニングトーク祭**  
-[https://techplay.jp/event/725758](https://techplay.jp/event/725758)
-
-※イベントレポートはこちら(公開資料含む)  
-[https://techplay.jp/eventreport/725758](https://techplay.jp/eventreport/725758)
-
-[https://togetter.com/li/1368084](https://togetter.com/li/1368084)
-
-### 第03回イベント(2019/08/27開催)
-**chillSAP もくもく会 #1**  
- 
-[https://togetter.com/li/1396271](https://togetter.com/li/1396271)
-
-### 第04回イベント(2019/10/09開催)
-**chillSAP もくもく会 #2**  
-
-[https://togetter.com/li/1415028](https://togetter.com/li/1415028)
-
-### 第05回イベント(2019/11/25, 27, 28開催)
-**SAP Inside Track Tokyo 2019**  
-
-[https://blogs.sap.com/?p=874946](https://blogs.sap.com/?p=874946)
-
-### 第06回イベント(2019/12/17開催)
-**chillSAP もくもく会 #3**  
-
-[https://togetter.com/li/1445819](https://togetter.com/li/1445819)
-
-### 第07回イベント(2020/02/13開催)
-**SAPなんでもLT祭 ~若手編~**  
-
-[https://techplay.jp/eventreport/764310](https://techplay.jp/eventreport/764310)
-
-### 第08回イベント(2020/03/27開催予定 ※未定)
-**SAPもくもく会 #4**  
+[こちら](https://chillsap.github.io/events/)
 
 # 今後の予定   
 もくもく会、LT等を随時検討中です。  
@@ -70,5 +27,9 @@ chillSAPの技術系イベントの告知等はこちらで行わせていただ
 イメージとしてはこのような感じです。  
 
 ![イメージ図](https://raw.githubusercontent.com/chillsap/about_us/master/chill_dev_image.jpg)
+
+# Code of Conducts
+
+[こちら](ttps://chillsap.github.io/code_of_conducts/)
 
 
