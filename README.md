@@ -6,11 +6,13 @@
 [SAP](https://www.sap.com)関連情報をソーシャルメディア ([Twitter](https://twitter.com/search?q=%23chillSAP&f=live), [Facebook](https://www.facebook.com/groups/580119365825721/)) やブログ等で発信しているメンバーが集まったコミュニティです。  
 他のITコミュニティ同様に、オンライン⇔オフラインを大事にしていきたいと思っています。
 
+[Code of Conducts](https://chillsap.github.io/code_of_conducts/)
+
 # ハッシュタグ
 #chillSAP
 
 # 過去のイベント
-[こちら](https://chillsap.github.io/events/)
+[イベントまとめ](https://chillsap.github.io/events/)
 
 # 今後の予定   
 もくもく会、LT等を随時検討中です。  
@@ -28,8 +30,6 @@ chillSAPの技術系イベントの告知等はこちらで行わせていただ
 
 ![イメージ図](https://raw.githubusercontent.com/chillsap/about_us/master/chill_dev_image.jpg)
 
-# Code of Conducts
 
-[こちら](https://chillsap.github.io/code_of_conducts/)
 
 
