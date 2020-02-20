@@ -3,7 +3,7 @@
 読み方：ちる・えす・えー・ぴー
 
 # どんなコミュニティ？  
-[SAP](https://www.sap.com)関連情報をソーシャルメディア ([Twitter](https://twitter.com/search?q=%23chillSAP&f=live), [Facebook](https://www.facebook.com/groups/580119365825721/)) やブログ等で発信しているメンバーが集まったコミュニティです。  
+[SAP](https://www.sap.com)関連情報をソーシャルメディア ([Twitter](https://twitter.com/search?q=%23chillSAP&f=live), [Facebook](https://www.facebook.com/groups/chillSAP/)) やブログ等で発信しているメンバーが集まったコミュニティです。  
 他のITコミュニティ同様に、オンライン⇔オフラインを大事にしていきたいと思っています。
 
 [Code of Conducts](https://chillsap.github.io/code_of_conducts/)
