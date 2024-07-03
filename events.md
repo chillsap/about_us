@@ -35,3 +35,10 @@
 **chillSAP もくもく会 #3**  
 
 [https://togetter.com/li/1445819](https://togetter.com/li/1445819)
+
+
+
+
+<a href="https://chillsap.github.io/about_us/" style="color: #FF5733;">chillSAP 紹介ページに戻る</a>
+
+
