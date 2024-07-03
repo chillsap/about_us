@@ -38,7 +38,8 @@
 
 
 
+**[chillSAP 紹介ページに戻る](https://chillsap.github.io/about_us/)**
 
-<a href="https://chillsap.github.io/about_us/" style="color: #FF5733;">chillSAP 紹介ページに戻る</a>
+
 
 
