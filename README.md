@@ -12,7 +12,7 @@
 #chillSAP
 
 # 過去のイベント
-[イベントまとめ](https://chillsap.github.io/events/)
+[イベントまとめ](events.md)
 
 # 今後の予定   
 もくもく会、LT等を随時検討中です。  
