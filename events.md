@@ -1,7 +1,11 @@
 # 過去のイベント
 
 ## SAP Inside Track Tokyo
-**SAP Inside Track Tokyo 2024** (2022/02/15~03/14開催）
+**SAP Inside Track Tokyo 2025** (2024/02/28~03/19開催）
+[開催案内＆レポート](https://community.sap.com/t5/tokyo-blog-posts/sap-inside-track-tokyo-2025-event-information/ba-p/13952791)
+
+## SAP Inside Track Tokyo
+**SAP Inside Track Tokyo 2024** (2023/02/15~03/14開催）
 [開催案内＆レポート](https://blogs.sap.com/2023/11/15/sap-inside-track-tokyo-2024/)
 
 **SAP Inside Track Tokyo 2023** (2022/02/02~03/02開催）
@@ -70,6 +74,9 @@
 
 
 ## アドベントカレンダー
+**SAP Advent Calendar 2024** 
+[リンク](https://adventar.org/calendars/10423)
+
 **SAP Advent Calendar 2023** 
 [リンク](https://adventar.org/calendars/8870)
 
