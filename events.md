@@ -2,7 +2,6 @@
 
 ## SAP Inside Track Tokyo
 **SAP Inside Track Tokyo 2025 chillSAP × JSUG Next-Gen Boost 若手LT大会** (2025/09/19開催予定）
-
 [開催案内](https://community.sap.com/t5/tokyo-blog-posts/sap-inside-track-tokyo-2025-chillsap-jsug-next-gen-boost-%E8%8B%A5%E6%89%8Blt%E5%A4%A7%E4%BC%9A%E9%96%8B%E5%82%AC/ba-p/14146560)
 
 **SAP Inside Track Tokyo 2025** (2024/02/28~03/19開催）
