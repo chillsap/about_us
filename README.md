@@ -3,7 +3,7 @@
 読み方：ちる・えす・えー・ぴー
 
 # どんなコミュニティ？  
-[SAP](https://www.sap.com)関連情報をソーシャルメディア ([Twitter](https://twitter.com/search?q=%23chillSAP&f=live), [Facebook](https://www.facebook.com/groups/chillSAP/)) やブログ等で発信しているメンバーが集まったコミュニティです。  
+[SAP](https://www.sap.com)関連情報をソーシャルメディア ([X](https://x.com/search?q=%23chillSAP&f=live), [Facebook](https://www.facebook.com/groups/chillSAP/)) やブログ等で発信しているメンバーが集まったコミュニティです。  
 他のITコミュニティ同様に、オンライン⇔オフラインを大事にしていきたいと思っています。
 
 [Code of Conducts](code_of_conducts.md)
@@ -15,7 +15,11 @@
 [イベントまとめ](events.md)
 
 # 今後の予定   
-もくもく会、LT等を随時検討中です。  
+イベントの告知は X（[#chillSAP](https://x.com/search?q=%23chillSAP&f=live)）と [Facebook グループ](https://www.facebook.com/groups/chillSAP/)で行っています。  
+
+# 連絡先
+主催者の X アカウントまでお気軽にどうぞ。  
+[@mahko2](https://x.com/mahko2) / [@minok104](https://x.com/minok104)
 
 # よくある質問  
 
@@ -29,7 +33,3 @@ chillSAPの技術系イベントの告知等はこちらで行わせていただ
 イメージとしてはこのような感じです。  
 
 ![イメージ図](https://raw.githubusercontent.com/chillsap/about_us/master/chill_dev_image.jpg)
-
-
-
-
