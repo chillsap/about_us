@@ -1,16 +1,19 @@
 # 過去のイベント
 
 ## SAP Inside Track Tokyo
-**SAP Inside Track Tokyo 2025 chillSAP × JSUG Next-Gen Boost 若手LT大会** (2025/09/19開催予定）
+**SAP Inside Track Tokyo 2026** (2026/02/18, 03/06開催）
+[開催案内](https://community.sap.com/t5/tokyo-blog-posts/sap-inside-track-tokyo-2026-event-information/ba-p/14294097)
+
+**SAP Inside Track Tokyo 2025 chillSAP × JSUG Next-Gen Boost 若手LT大会** (2025/09/19開催）
 [開催案内](https://community.sap.com/t5/tokyo-blog-posts/sap-inside-track-tokyo-2025-chillsap-jsug-next-gen-boost-%E8%8B%A5%E6%89%8Blt%E5%A4%A7%E4%BC%9A%E9%96%8B%E5%82%AC/ba-p/14146560)
 
-**SAP Inside Track Tokyo 2025** (2024/02/28~03/19開催）
+**SAP Inside Track Tokyo 2025** (2025/02/28~03/19開催）
 [開催案内](https://community.sap.com/t5/tokyo-blog-posts/sap-inside-track-tokyo-2025-event-information/ba-p/13952791) ＆ [レポート](https://community.sap.com/t5/tokyo-blog-posts/sap-inside-track-tokyo-2025-event-report/ba-p/14063933)
 
-**SAP Inside Track Tokyo 2024** (2023/02/15~03/14開催）
+**SAP Inside Track Tokyo 2024** (2024/02/15~03/14開催）
 [開催案内＆レポート](https://blogs.sap.com/2023/11/15/sap-inside-track-tokyo-2024/)
 
-**SAP Inside Track Tokyo 2023** (2022/02/02~03/02開催）
+**SAP Inside Track Tokyo 2023** (2023/02/02~03/02開催）
 [開催案内＆レポート](https://blogs.sap.com/2022/11/17/sap-inside-track-tokyo-2023/)
 
 **SAP Inside Track Tokyo 2022** (2022/02/03~03/10開催）
@@ -49,7 +52,7 @@
 [TECH PLAYレポート](https://techplay.jp/eventreport/725758)　
 [ツイートまとめ](https://togetter.com/li/1368084)
 
-## SAP Stammtish Tokyo
+## SAP Stammtisch Tokyo
 **SAP Stammtisch Tokyo 2021**  （2021/03/24開催)
 
 **SAP Stammtisch Tokyo 2020**  （2020/12/18開催)　
@@ -76,6 +79,9 @@
 
 
 ## アドベントカレンダー
+**SAP Advent Calendar 2025** 
+[リンク](https://adventar.org/calendars/11479)
+
 **SAP Advent Calendar 2024** 
 [リンク](https://adventar.org/calendars/10423)
 
@@ -117,7 +123,3 @@
 
 
 **[chillSAP 紹介ページに戻る](https://chillsap.github.io/about_us/)**
-
-
-
-
