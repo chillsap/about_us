@@ -79,6 +79,9 @@
 
 
 ## アドベントカレンダー
+**SAP Advent Calendar 2026** 
+[リンク](https://adventar.org/calendars/12871)
+
 **SAP Advent Calendar 2025** 
 [リンク](https://adventar.org/calendars/11479)
 
